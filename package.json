@@ -30,6 +30,7 @@
     "jest": "^24.9.0"
   },
   "devDependencies": {
-    "jsdoc": "^3.6.3"
+    "jsdoc": "^3.6.3",
+    "uuid": "^3.3.2"
   }
 }
